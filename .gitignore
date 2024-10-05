@@ -4,4 +4,3 @@ node_modules
 servidor/*.env
 servidor/.env
 cliente/*.env
-
